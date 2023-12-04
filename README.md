@@ -29,3 +29,6 @@ public Vector2 FindPath(Vector2 startPos, Vector2 targetPos)
 ```csharp
 public Vector3 FindPath(Vector3 startPos, Vector3 targetPos)
 ```
+
+## Dependencies
+* None
