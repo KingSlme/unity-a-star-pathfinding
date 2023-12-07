@@ -12,6 +12,7 @@
 2. Utilize the FollowPath script or create your own implementations
 
 ## Methods
+
 ### Grid
 *Allows recalculation of nodes during runtime.*  
 ```csharp  
